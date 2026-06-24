@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/build
+/app/release
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Gradle wrapper files kept, but not the jar
+# gradle-wrapper.jar is in the repo
+
+# OS files
+Thumbs.db
+Desktop.ini
